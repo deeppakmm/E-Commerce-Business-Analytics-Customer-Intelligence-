@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipython/
+
+# Secrets and credentials
+.env
+*.pem
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+
+.virtual_documents/
