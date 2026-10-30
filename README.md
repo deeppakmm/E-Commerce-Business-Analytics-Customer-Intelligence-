@@ -87,7 +87,7 @@ The Power BI dashboard provides an interactive overview of sales, customers, pay
 
 ## Dashboard Preview
 
-![Power BI Dashboard](images/dashboard_overview.png)
+![Power BI Dashboard](Images/dashboard_overview.png)
 
 ## Project Status
 
